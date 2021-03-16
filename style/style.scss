@@ -1,0 +1,12 @@
+$red: rgb(252, 84, 84);
+$blue: rgb(60, 32, 184);
+
+footer {
+    h3 {
+        color: $red;
+    }
+    p {
+        color: $blue;
+        font-size: 72px;
+    }
+}
